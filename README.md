@@ -39,7 +39,7 @@
 
 </br>
 
-<h2 align="center">DevOps</h2>
+<h2 align="center">ETC</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
